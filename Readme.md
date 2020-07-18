@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Екатерина Литвинова](https://up.htmlacademy.ru/adaptive/20/user/1500663).
-* Наставник:  [Анастасия Полозова](https://htmlacademy.ru/profile/id258631)
+* Наставник: [Анастасия Полозова](https://htmlacademy.ru/profile/id258631).
 
 ---
 
